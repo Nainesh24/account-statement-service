@@ -1,0 +1,6 @@
+@StatementService_HostAddress = http://localhost:5250
+
+GET {{StatementService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
